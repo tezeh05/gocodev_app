@@ -1,0 +1,1 @@
+web: gunicorn giscodev_org.wsgi
